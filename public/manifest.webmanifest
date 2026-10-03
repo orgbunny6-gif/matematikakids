@@ -1,0 +1,17 @@
+{
+  "name": "Tenglama Olami — 2-sinf uchun matematika",
+  "short_name": "Tenglama Olami",
+  "description": "2-sinf o'quvchilari uchun interaktiv matematik ta'lim platformasi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1123",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64 128x128 256x256 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

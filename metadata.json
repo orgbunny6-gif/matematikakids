@@ -1,0 +1,6 @@
+{
+  "name": "Tenglama Olami",
+  "description": "2-sinf o'quvchilari uchun interaktiv matematik ta'lim platformasi: tenglamalar, tarozi muvozanati, qiziqarli o'yinlar va darslar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
